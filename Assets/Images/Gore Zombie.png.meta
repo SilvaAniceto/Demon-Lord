@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: 384787789adb8c248b9bd56a7ede8cad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -733428871348301579
+    second: Gore Zombie_0
+  - first:
+      213: 1036730784847232238
+    second: Gore Zombie_1
+  - first:
+      213: -1234688963642832180
+    second: Gore Zombie_2
+  - first:
+      213: 7684295025438121730
+    second: Gore Zombie_3
+  - first:
+      213: -4201325558063683833
+    second: Gore Zombie_4
+  - first:
+      213: 435706241515025049
+    second: Gore Zombie_5
+  - first:
+      213: -7599285976994820291
+    second: Gore Zombie_6
+  - first:
+      213: 4241462526715355184
+    second: Gore Zombie_7
+  - first:
+      213: -7901414168587913743
+    second: Gore Zombie_8
+  - first:
+      213: 480542381122261381
+    second: Gore Zombie_9
+  - first:
+      213: 5243713426815094845
+    second: Gore Zombie_10
+  - first:
+      213: -6799672088424736085
+    second: Gore Zombie_11
+  - first:
+      213: 2187608451896665794
+    second: Gore Zombie_12
+  - first:
+      213: -7821765901054572900
+    second: Gore Zombie_13
+  - first:
+      213: 3140589023076130717
+    second: Gore Zombie_14
+  - first:
+      213: 7095801843651906673
+    second: Gore Zombie_15
+  - first:
+      213: 2647318523966648846
+    second: Gore Zombie_16
+  - first:
+      213: -4419239511565465120
+    second: Gore Zombie_17
+  - first:
+      213: 7509578521734392644
+    second: Gore Zombie_18
+  - first:
+      213: -4290814785043666881
+    second: Gore Zombie_19
+  - first:
+      213: 7746780819164776220
+    second: Gore Zombie_20
+  - first:
+      213: 5823210906351265100
+    second: Gore Zombie_21
+  - first:
+      213: 2435499575382674012
+    second: Gore Zombie_22
+  - first:
+      213: -8255113317396580239
+    second: Gore Zombie_23
+  - first:
+      213: -2396049101686901659
+    second: Gore Zombie_24
+  - first:
+      213: 8129803949447543877
+    second: Gore Zombie_25
+  - first:
+      213: 3541208978185880348
+    second: Gore Zombie_26
+  - first:
+      213: 1483147133650116747
+    second: Gore Zombie_27
+  - first:
+      213: -9146018655480331511
+    second: Gore Zombie_28
+  - first:
+      213: -3744926180510246765
+    second: Gore Zombie_29
+  - first:
+      213: 6627546448196588434
+    second: Gore Zombie_30
+  - first:
+      213: -461734827906446103
+    second: Gore Zombie_31
+  - first:
+      213: 2335996694583255911
+    second: Gore Zombie_32
+  - first:
+      213: -3057253492868725780
+    second: Gore Zombie_33
+  - first:
+      213: 8840465879567073869
+    second: Gore Zombie_34
+  - first:
+      213: -7073419417384474551
+    second: Gore Zombie_35
+  - first:
+      213: 8294062806346033448
+    second: Gore Zombie_36
+  - first:
+      213: -7578282532479156624
+    second: Gore Zombie_37
+  - first:
+      213: 1133656028840522333
+    second: Gore Zombie_38
+  - first:
+      213: -8253883480340686327
+    second: Gore Zombie_39
+  - first:
+      213: 1061627478626314138
+    second: Gore Zombie_40
+  - first:
+      213: 4274455355209813314
+    second: Gore Zombie_41
+  - first:
+      213: 1474621162483629917
+    second: Gore Zombie_42
+  - first:
+      213: -6002947337916004688
+    second: Gore Zombie_43
+  - first:
+      213: -1036349396591895854
+    second: Gore Zombie_44
+  - first:
+      213: 7369685373484366451
+    second: Gore Zombie_45
+  - first:
+      213: -223358267807651297
+    second: Gore Zombie_46
+  - first:
+      213: -3103021754143511242
+    second: Gore Zombie_47
+  - first:
+      213: 2657933318789406946
+    second: Gore Zombie_48
+  - first:
+      213: 1189446830775812761
+    second: Gore Zombie_49
+  - first:
+      213: 8720482793156185901
+    second: Gore Zombie_50
+  - first:
+      213: 2186255292495838707
+    second: Gore Zombie_51
+  - first:
+      213: 24424441112668961
+    second: Gore Zombie_52
+  - first:
+      213: 6035997857035670349
+    second: Gore Zombie_53
+  - first:
+      213: -6189631749251457568
+    second: Gore Zombie_54
+  - first:
+      213: 5268045177502764135
+    second: Gore Zombie_55
+  - first:
+      213: -8731498296736113498
+    second: Gore Zombie_56
+  - first:
+      213: 2259908803868668382
+    second: Gore Zombie_57
+  - first:
+      213: 334242013939759400
+    second: Gore Zombie_58
+  - first:
+      213: -8207898250644364451
+    second: Gore Zombie_59
+  - first:
+      213: -2368613491168344568
+    second: Gore Zombie_60
+  - first:
+      213: 5945956637370858459
+    second: Gore Zombie_61
+  - first:
+      213: -1320753297936691225
+    second: Gore Zombie_62
+  - first:
+      213: -1868779261721246988
+    second: Gore Zombie_63
+  - first:
+      213: 6975304488950427651
+    second: Gore Zombie_64
+  - first:
+      213: 9120812203372767625
+    second: Gore Zombie_65
+  - first:
+      213: -4973638934589672108
+    second: Gore Zombie_66
+  - first:
+      213: -801465346784486975
+    second: Gore Zombie_67
+  - first:
+      213: -1481399180062570321
+    second: Gore Zombie_68
+  - first:
+      213: 5655898445813235578
+    second: Gore Zombie_69
+  - first:
+      213: 2292842782697825993
+    second: Gore Zombie_70
+  - first:
+      213: 6493922569736118269
+    second: Gore Zombie_71
+  - first:
+      213: 1520173436108395583
+    second: Gore Zombie_72
+  - first:
+      213: 9052376619700718397
+    second: Gore Zombie_73
+  - first:
+      213: 7698298050972808214
+    second: Gore Zombie_74
+  - first:
+      213: 4389103156959162149
+    second: Gore Zombie_75
+  - first:
+      213: -6497592214147623649
+    second: Gore Zombie_76
+  - first:
+      213: -5079532184091301025
+    second: Gore Zombie_77
+  - first:
+      213: 7628923614863587374
+    second: Gore Zombie_78
+  - first:
+      213: -7740892530336617886
+    second: Gore Zombie_79
+  - first:
+      213: -4433233296709772102
+    second: Gore Zombie_80
+  - first:
+      213: 3687900963079198465
+    second: Gore Zombie_81
+  - first:
+      213: -7221005331331195537
+    second: Gore Zombie_82
+  - first:
+      213: 4138550282874375335
+    second: Gore Zombie_83
+  - first:
+      213: 2416414196767763254
+    second: Gore Zombie_84
+  - first:
+      213: 920849715224335673
+    second: Gore Zombie_85
+  - first:
+      213: 2847035165437978866
+    second: Gore Zombie_86
+  - first:
+      213: 1241907209835327624
+    second: Gore Zombie_87
+  - first:
+      213: -6391071443133775806
+    second: Gore Zombie_88
+  - first:
+      213: 5439410808929833223
+    second: Gore Zombie_89
+  - first:
+      213: 125873819359720267
+    second: Gore Zombie_90
+  - first:
+      213: 8908305200554037019
+    second: Gore Zombie_91
+  - first:
+      213: -4348127581816808326
+    second: Gore Zombie_92
+  - first:
+      213: 7048644670405401627
+    second: Gore Zombie_93
+  - first:
+      213: 5234135759363946172
+    second: Gore Zombie_94
+  - first:
+      213: 6024047071013142086
+    second: Gore Zombie_95
+  - first:
+      213: -2579948723935972389
+    second: Gore Zombie_96
+  - first:
+      213: -2992426473059281822
+    second: Gore Zombie_97
+  - first:
+      213: 2257370080150253823
+    second: Gore Zombie_98
+  - first:
+      213: -291080722003228092
+    second: Gore Zombie_99
+  - first:
+      213: -5794968239843066251
+    second: Gore Zombie_100
+  - first:
+      213: 1198030073443335226
+    second: Gore Zombie_101
+  - first:
+      213: -7846005450249666623
+    second: Gore Zombie_102
+  - first:
+      213: -772147209920196346
+    second: Gore Zombie_103
+  - first:
+      213: 5055193258828360586
+    second: Gore Zombie_104
+  - first:
+      213: 1545058212928182890
+    second: Gore Zombie_105
+  - first:
+      213: 9035355120785143789
+    second: Gore Zombie_106
+  - first:
+      213: -9155442294076811653
+    second: Gore Zombie_107
+  - first:
+      213: 5743535665106646122
+    second: Gore Zombie_108
+  - first:
+      213: 4710162828916626771
+    second: Gore Zombie_109
+  - first:
+      213: -3374202302670908614
+    second: Gore Zombie_110
+  - first:
+      213: 336669913041727991
+    second: Gore Zombie_111
+  - first:
+      213: 4180673390561579058
+    second: Gore Zombie_112
+  - first:
+      213: -3765626769360995964
+    second: Gore Zombie_113
+  - first:
+      213: -1555789123348543429
+    second: Gore Zombie_114
+  - first:
+      213: -8420304612619715974
+    second: Gore Zombie_115
+  - first:
+      213: 1967999961014066999
+    second: Gore Zombie_116
+  - first:
+      213: -8549442776686631590
+    second: Gore Zombie_117
+  - first:
+      213: -8684287217242236575
+    second: Gore Zombie_118
+  - first:
+      213: -2560332185066519314
+    second: Gore Zombie_119
+  - first:
+      213: 9178187663931242821
+    second: Gore Zombie_120
+  - first:
+      213: -2273558769454071415
+    second: Gore Zombie_121
+  - first:
+      213: 4758784515779186535
+    second: Gore Zombie_122
+  - first:
+      213: 6884069048727930396
+    second: Gore Zombie_123
+  - first:
+      213: 6709604872570654398
+    second: Gore Zombie_124
+  - first:
+      213: -2485091708390192909
+    second: Gore Zombie_125
+  - first:
+      213: -8548277262496694691
+    second: Gore Zombie_126
+  - first:
+      213: -1702185476830836969
+    second: Gore Zombie_127
+  - first:
+      213: 4732200013982707488
+    second: Gore Zombie_128
+  - first:
+      213: 434751133758579593
+    second: Gore Zombie_129
+  - first:
+      213: 8669871649733300512
+    second: Gore Zombie_130
+  - first:
+      213: 339685163629932562
+    second: Gore Zombie_131
+  - first:
+      213: 2117212595871893424
+    second: Gore Zombie_132
+  - first:
+      213: 8180501644801161051
+    second: Gore Zombie_133
+  - first:
+      213: -4809427977172503863
+    second: Gore Zombie_134
+  - first:
+      213: -8274989801387529307
+    second: Gore Zombie_135
+  - first:
+      213: 3205808642525354251
+    second: Gore Zombie_136
+  - first:
+      213: -273356124392264468
+    second: Gore Zombie_137
+  - first:
+      213: -6877095130024416237
+    second: Gore Zombie_138
+  - first:
+      213: -6078378565279365663
+    second: Gore Zombie_139
+  - first:
+      213: -1706060953875770375
+    second: Gore Zombie_140
+  - first:
+      213: 2917025435614204020
+    second: Gore Zombie_141
+  - first:
+      213: 8623574285851820004
+    second: Gore Zombie_142
+  - first:
+      213: 6423022879351128124
+    second: Gore Zombie_143
+  - first:
+      213: 5720500812487059827
+    second: Gore Zombie_144
+  - first:
+      213: -1464366009941223177
+    second: Gore Zombie_145
+  - first:
+      213: 1417995436310778392
+    second: Gore Zombie_146
+  - first:
+      213: 100101307362595543
+    second: Gore Zombie_147
+  - first:
+      213: -6119123660913039098
+    second: Gore Zombie_148
+  - first:
+      213: -341460571731433766
+    second: Gore Zombie_149
+  - first:
+      213: -5509126232988058165
+    second: Gore Zombie_150
+  - first:
+      213: -2143445301352585572
+    second: Gore Zombie_151
+  - first:
+      213: -2621569135833821272
+    second: Gore Zombie_152
+  - first:
+      213: -5730152979632747455
+    second: Gore Zombie_153
+  - first:
+      213: -1316340415850625847
+    second: Gore Zombie_154
+  - first:
+      213: -6945310392928246277
+    second: Gore Zombie_155
+  - first:
+      213: 7032395568579709970
+    second: Gore Zombie_156
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gore Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 672
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ade11781a7334bb60221f1f93365e
+      internalID: -733428871348301579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 670
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2d0895b745a34cba7bcffb1359b0d
+      internalID: 1036730784847232238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 665
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e54f223f596540ab481da775024e7
+      internalID: -1234688963642832180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 670
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7397969ee8801a4ba0f51edcca982fb
+      internalID: 7684295025438121730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 670
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe5f22167a95a4fb7f3abb72f414c7
+      internalID: -4201325558063683833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 670
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604c9b1ed640a64ba77bf8c2f358074
+      internalID: 435706241515025049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 553
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c33942cd04e124a91e5262c6fe1d84
+      internalID: -7599285976994820291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 553
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba620797a1880274f8e67c383cea1be9
+      internalID: 4241462526715355184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 553
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59231e7a7f9a939479b10ec4d023f79f
+      internalID: -7901414168587913743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 553
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b19b99bcb1d6b4e82f9c45fcfa88a9
+      internalID: 480542381122261381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 553
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df6edc12705a04b8bf7c5cd2f03950
+      internalID: 5243713426815094845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 552
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dbbb503b6210846bfd31be4c92c223
+      internalID: -6799672088424736085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 552
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b0551e28881794f8b2fb96367a0ec6
+      internalID: 2187608451896665794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 552
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ee2121344b654fab8ff0ffab5af14
+      internalID: -7821765901054572900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37288308d6130884a8406b1b8b78c8f9
+      internalID: 3140589023076130717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 439
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92d06a5289e844fb97291f582cef6c
+      internalID: 7095801843651906673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 439
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0c3a72bf651246aa7509abd23a254
+      internalID: 2647318523966648846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 439
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba40cf1944ec107488459c4ecc5ba1e8
+      internalID: -4419239511565465120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 439
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb85f2d24b5f64c959ecc9fd387369
+      internalID: 7509578521734392644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 439
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534e15a03326a54b931af8b6ccc3665
+      internalID: -4290814785043666881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 439
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003612e43502c4244baf80905170957b
+      internalID: 7746780819164776220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 439
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b01f6527348a14fa8744dfa8c17cde
+      internalID: 5823210906351265100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 330
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc5e5796790e8428e7efd790702867
+      internalID: 2435499575382674012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d00c3ae41ada7449a70cc667602aa6
+      internalID: -8255113317396580239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 330
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935babd680f757e49b0a54b8f2814db1
+      internalID: -2396049101686901659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 330
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9beae5264b74b45b1e5070711ace71
+      internalID: 8129803949447543877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 330
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5087e554f53c464eb666e4c8b1814f0
+      internalID: 3541208978185880348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 330
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943aa72be32603c4895c235e3d3c1b83
+      internalID: 1483147133650116747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 229
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aeeb45a8c73ea48b4ee445d6f2e443
+      internalID: -9146018655480331511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 229
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625ccdc9157b4f40b14b0bc0b9d6741
+      internalID: -3744926180510246765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 229
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40427c02e1c094083684d39adf4711
+      internalID: 6627546448196588434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 229
+        width: 54
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5652384, y: 0.5500402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bce722e7a741b4ea493768f17921c5
+      internalID: -461734827906446103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 229
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43cb47a6b2f46c47a6fa15d3198a96e
+      internalID: 2335996694583255911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 229
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e6a2e07b600c418bd1617e80f89e2
+      internalID: -3057253492868725780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 229
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9107c61b6fc85e4ba15d8ea4a3d16a8
+      internalID: 8840465879567073869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_35
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 229
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb43f0d30cbc664d9e6e9c2eecf4235
+      internalID: -7073419417384474551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 229
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d206c273999d409b280312d965adc
+      internalID: 8294062806346033448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 228
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb0447ee16bc2f4e9964bf9ec85385e
+      internalID: -7578282532479156624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 229
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51377bb788700ef46b4dfb2d4d9e1ec7
+      internalID: 1133656028840522333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689727c0e0ae61c46bc0217e6ddae91d
+      internalID: -8253883480340686327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f3352b236bec44bf4c1d4ffd96c32
+      internalID: 1061627478626314138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 117
+        width: 52
+        height: 81
+      alignment: 9
+      pivot: {x: 0.46575782, y: 0.6978434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3313391d9dfd78e4ebef69f9ea74883b
+      internalID: 4274455355209813314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 117
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916dd61e0a2454c4580a271db23c2de2
+      internalID: 1474621162483629917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 193
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca6338a7b3d1e4ba8f1ed523de6d46
+      internalID: -6002947337916004688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_44
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 116
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee1f0fc92222c4a87da567f6827116
+      internalID: -1036349396591895854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 117
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f60c46777f84e47a3d3d9dcc602c99
+      internalID: 7369685373484366451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_46
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 112
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21265770c896746449c4f496267396d3
+      internalID: -223358267807651297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_47
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 150
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a1f3fc7d452b47ae7eac6434c9e45
+      internalID: -3103021754143511242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_48
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 112
+        width: 140
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf126f1af826c246894067c3775f99c
+      internalID: 2657933318789406946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 79
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50735146, y: 1.7160301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18cb4b1409d3274cbe5c7bea1ab98df
+      internalID: 1189446830775812761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 112
+        width: 99
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48220795, y: 1.8877962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152370bbbc4966c4eae992ca68a8e540
+      internalID: 8720482793156185901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 112
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b691f027a6d7940bd0ed5402661baf
+      internalID: 2186255292495838707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_52
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad62a24f729fa541a649d0ecf2fba71
+      internalID: 24424441112668961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_53
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 111
+        width: 141
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71bf10aaf006443805fc4219470f95
+      internalID: 6035997857035670349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_54
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 112
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ef8b6f3bc3dc41a930f9bb029dd54
+      internalID: -6189631749251457568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_55
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 112
+        width: 127
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9507d7936b054eab8a26847ba99c8
+      internalID: 5268045177502764135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52bfaf13ba420438cb74a6af9e6e9a
+      internalID: -8731498296736113498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33844e37381762d49942cca07dc96004
+      internalID: 2259908803868668382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667871498918764d9bec7297bae345c
+      internalID: 334242013939759400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba055bb7803bc74da03a5c7b62fe817
+      internalID: -8207898250644364451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c1e581dd36a24f8e208ba2e9a1680
+      internalID: -2368613491168344568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 44
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924461384f1262a459e4948c65fa0571
+      internalID: 5945956637370858459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0c068068fbf740a55066d470cc7a1
+      internalID: -1320753297936691225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore Zombie_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1266
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54871d870ac95234581bcb6c86832d4a
+      internalID: -1868779261721246988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88ea53b06ea4ea24899f4178c0b58781
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

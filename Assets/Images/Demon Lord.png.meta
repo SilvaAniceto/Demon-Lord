@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 57f7b25dc3179f64498aac6028f30b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6867842772149770070
+    second: Demon Lord_0
+  - first:
+      213: -4802522402176165887
+    second: Demon Lord_1
+  - first:
+      213: -3418705335047590613
+    second: Demon Lord_2
+  - first:
+      213: 2605938877336752223
+    second: Demon Lord_3
+  - first:
+      213: 1639613028503753010
+    second: Demon Lord_4
+  - first:
+      213: -4153904742007003144
+    second: Demon Lord_5
+  - first:
+      213: -7799125041493152516
+    second: Demon Lord_6
+  - first:
+      213: 1174966129826442562
+    second: Demon Lord_7
+  - first:
+      213: 5989008787246746122
+    second: Demon Lord_8
+  - first:
+      213: 9048183827205992520
+    second: Demon Lord_9
+  - first:
+      213: 8755747881493559218
+    second: Demon Lord_10
+  - first:
+      213: 6798852640413914343
+    second: Demon Lord_11
+  - first:
+      213: -7867733679567299653
+    second: Demon Lord_12
+  - first:
+      213: -1910513948813653510
+    second: Demon Lord_13
+  - first:
+      213: 7294385883663412433
+    second: Demon Lord_14
+  - first:
+      213: -7792665104113871285
+    second: Demon Lord_15
+  - first:
+      213: -8206691857877859509
+    second: Demon Lord_16
+  - first:
+      213: -6880902497321527751
+    second: Demon Lord_17
+  - first:
+      213: -8571619286145875495
+    second: Demon Lord_18
+  - first:
+      213: 1805640255679569098
+    second: Demon Lord_19
+  - first:
+      213: -4985780987274163556
+    second: Demon Lord_20
+  - first:
+      213: -8865773180191930975
+    second: Demon Lord_21
+  - first:
+      213: -2352408608098579591
+    second: Demon Lord_22
+  - first:
+      213: 3462963914316820309
+    second: Demon Lord_23
+  - first:
+      213: -8747960440778871059
+    second: Demon Lord_24
+  - first:
+      213: -8844274501791136520
+    second: Demon Lord_25
+  - first:
+      213: -4162597418391404313
+    second: Demon Lord_26
+  - first:
+      213: 5854741693859780637
+    second: Demon Lord_27
+  - first:
+      213: 3227478058915685753
+    second: Demon Lord_28
+  - first:
+      213: -9104866887361760101
+    second: Demon Lord_29
+  - first:
+      213: 1798160436994689226
+    second: Demon Lord_30
+  - first:
+      213: -7434162936603223991
+    second: Demon Lord_31
+  - first:
+      213: -1664899263577999338
+    second: Demon Lord_32
+  - first:
+      213: -5417814215845542625
+    second: Demon Lord_33
+  - first:
+      213: -7031570399034917420
+    second: Demon Lord_34
+  - first:
+      213: 886492827909676550
+    second: Demon Lord_35
+  - first:
+      213: -327345942051427428
+    second: Demon Lord_36
+  - first:
+      213: 3372470129311403813
+    second: Demon Lord_37
+  - first:
+      213: -2731814933661195304
+    second: Demon Lord_38
+  - first:
+      213: 7666179890511044082
+    second: Demon Lord_39
+  - first:
+      213: -5055261237616861414
+    second: Demon Lord_40
+  - first:
+      213: -3345381211274484698
+    second: Demon Lord_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon Lord_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 484
+        width: 76
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f508fe03dfef4fb67e4fa0b602950
+      internalID: 6867842772149770070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 461
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a954730d60537543acbaaff4a80d203
+      internalID: -4802522402176165887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 462
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462e7e2646424a48ae57aec79e7cc53
+      internalID: -3418705335047590613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 462
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774505549b1623f4d8bcc15ba9e1b4bb
+      internalID: 2605938877336752223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 487
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737a2c427796bd48990e45e3789f3df
+      internalID: 1639613028503753010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 464
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851e4382befbf1419647fc737f8443d
+      internalID: -4153904742007003144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 465
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590bcb792da8a3b4ea9bc35cd23a5bd9
+      internalID: -7799125041493152516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 465
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e8fd18ee23c841805ad4b6b59c8b9
+      internalID: 1174966129826442562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 334
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d1cd177fb9c5499740d215d0c89b8
+      internalID: 5989008787246746122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 335
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629871fc485974b40810d076448adfeb
+      internalID: 9048183827205992520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 333
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659576cf7f0286142833c6ffa12e6f60
+      internalID: 8755747881493559218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 333
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c329cc70abd2943448c0ac702309e242
+      internalID: 6798852640413914343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 337
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14855734d90f9c74fa2d2b71d6ef64db
+      internalID: -7867733679567299653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 338
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b34acf14ff3634da3d890a757613e9
+      internalID: -1910513948813653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 336
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58502240ac0b70e47999e90f13adff53
+      internalID: 7294385883663412433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 336
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5a4afcc434984bb20ea30504e4cd9
+      internalID: -7792665104113871285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 76
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa453b15642f544bf8283ddae9e49b
+      internalID: -8206691857877859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 81
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b041f13e3a01247a125d20db12fefa
+      internalID: -6880902497321527751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 194
+        width: 120
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237dd38cb7f1e8643afaf50ebef915c8
+      internalID: -8571619286145875495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 194
+        width: 118
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e63fbdcd86644493a2e18bda80ab9
+      internalID: 1805640255679569098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 216
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30699c9bb86f454e8890ec4c9583e88
+      internalID: -4985780987274163556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_21
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 193
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ed2ca8030288488a8c5049fe07a55
+      internalID: -8865773180191930975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 194
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecebc0b2fc661e4a9953c412a718f78
+      internalID: -2352408608098579591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_23
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 194
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e8803e27e4d24088e8c9372949961
+      internalID: 3462963914316820309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 118
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab20d064a0b474245ba17a4b432a399c
+      internalID: -8747960440778871059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 67
+        width: 113
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb04bfacabea745a100a5f723c5885
+      internalID: -8844274501791136520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 65
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d2e24ff983e543b3c183c1654d367
+      internalID: -4162597418391404313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 65
+        width: 118
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe9f8320907a6d4d94f65ce4d911436
+      internalID: 5854741693859780637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 66
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fceb9067dd4ee42a980d477807608a
+      internalID: 3227478058915685753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 67
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c563a786def642a37cafcba93dba5
+      internalID: -9104866887361760101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_30
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 65
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a6c543c54feb439ee48bac8709277
+      internalID: 1798160436994689226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 65
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2deb534fb4c84e94d7ed019239e9f
+      internalID: -7434162936603223991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Lord_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1072
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248beb728a435ff4298f34a81074945c
+      internalID: -1664899263577999338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e59ddde91e3d9c747b98261ffb6949b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
