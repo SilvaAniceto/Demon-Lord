@@ -53,7 +53,7 @@ public class Character_Controller : MonoBehaviour
         currentAmmo = maxAmmo;
         audioSource = GetComponent<AudioSource>();
     }
-    void FixedUpdate()
+    void Update()
     {
         // Configurar Movimento Padrão
         transform.Translate(Input.GetAxisRaw("Horizontal") * speed * Time.deltaTime, 0f, 0f);
